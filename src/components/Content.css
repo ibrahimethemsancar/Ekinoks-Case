@@ -1,0 +1,36 @@
+.card{
+    width: 18rem;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.navLink{
+    text-decoration: none;
+}
+.searchInput {
+    width: 400px;
+    height: 46px;
+   
+  
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+  }
+  .searchButton {
+    margin-top: -23px;
+    margin-left: 10px;
+    width: 138px;
+    height: 46px;
+    padding-top: 5px;
+    
+  
+    background: #2303d6;
+    border-radius: 8px;
+  }
+  #form{
+      margin-left: 300px;
+      margin-top: 20px;
+  }
+  .upDiv{
+      margin-top: -20px;
+  }
